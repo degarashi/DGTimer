@@ -13,8 +13,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+		mainwindow.cpp
 
 HEADERS  += mainwindow.h
 
 FORMS    += mainwindow.ui
+QMAKE_CXXFLAGS += -std=c++11
+QMAKE_CXX = clang
+QMAKE_LINK = clang

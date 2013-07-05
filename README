@@ -1,0 +1,5 @@
+ポモドーロメソッドを実践する時にシンプルなタイマーが欲しかったので
+Qtの練習がてら自分で書いてみた物を、なんとなく公開してみました
+
+When I tried Pomodoro technique, I needed a  timer for it.
+so, I made a simple timer using Qt framework.
